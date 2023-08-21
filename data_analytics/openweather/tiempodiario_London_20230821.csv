@@ -1,0 +1,2 @@
+weather,base,visibility,dt,timezone,id,name,cod,coord.lon,coord.lat,main.temp,main.feels_like,main.temp_min,main.temp_max,main.pressure,main.humidity,wind.speed,wind.deg,clouds.all,sys.type,sys.id,sys.country,sys.sunrise,sys.sunset
+"[{'id': 803, 'main': 'Clouds', 'description': 'broken clouds', 'icon': '04n'}]",stations,10000,1692656121,3600,2643743,London,200,-0.1257,51.5085,291.04,291,289.29,292.59,1019,81,4.12,230,59,2,2075535,GB,1692593702,1692645170
